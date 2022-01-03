@@ -1,7 +1,10 @@
 
 <h3><b><i>🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 🏆</i></b></h3>
-<a href="https://github.com/Err0r-ICA"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Err0r-ICA&theme=monokai"></a>
-</p>  
+<div>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+</a>
+</div>
 <p><center> 
 📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
  <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
