@@ -11,7 +11,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 
-# Languages :
+## 🎶 Actually Listening 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
+
+## ❗ Languages ❗
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -25,7 +28,7 @@
 <br/><br/>
 </p>
 
-# Tools :
+# 💻 Tools 💻
 <a href="https://github.com/Err0r-ICA/Brutegram"><img title="Brutegram" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=Brutegram&theme=chartreuse-dark"></a>
 <a href="https://github.com/Err0r-ICA/TermuxCyberArmy"><img title="TermuxCyberArmy" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=TermuxCyberArmy&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Err0r-ICA/WannaTool"><img title="WannaTool" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=WannaTool&theme=dark"></a>
@@ -33,7 +36,7 @@
 <a href="https://github.com/ERR0R-ICA/VARIOUS"><img title="VARIOUS" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=VARIOUS&theme=tokyonight"></a>
 </p>
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
