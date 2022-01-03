@@ -1,5 +1,5 @@
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<h3><b><i>🏆 Github Statistics 🏆</i></b></h3>
 <a href="https://github.com/Err0r-ICA"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Err0r-ICA&theme=monokai"></a>
 </p>  
 <p><center> 
