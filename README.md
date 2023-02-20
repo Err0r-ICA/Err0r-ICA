@@ -67,7 +67,7 @@
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [TELEGRAM](https://t.me/termuxhacks)
 
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
