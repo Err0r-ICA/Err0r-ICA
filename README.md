@@ -1,3 +1,5 @@
+![logo](https://i.ibb.co/Tr1BXg0/Cyb3r-Byte.png)
+
 <h3><b><i>🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 🏆</i></b></h3>
 <div>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
