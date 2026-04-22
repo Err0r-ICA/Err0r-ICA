@@ -191,7 +191,7 @@ $ cat /etc/profile.d/err0r.sh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
 
 [![License MIT](https://img.shields.io/badge/license-MIT-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
-[![Maintainer HackBoyz](https://img.shields.io/badge/maintainer-Cyb3r Drag0nz Team-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
+[![Maintainer HackBoyz](https://img.shields.io/badge/maintainer-Cyb3rDrag0nzTeam-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
 [![Tested On](https://img.shields.io/badge/tested%20on-Kali%20·%20Parrot%20·%20Ubuntu%20·%20Termux-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
 
 </div>
