@@ -24,10 +24,10 @@
 
 <br/><br/>
 
-<!-- VISITOR COUNTER -->
+<!-- VISITOR COUNTER — hits.seeyoufarm.com è stabile e non richiede setup -->
 📌 **VISITORS COUNT** 📌
 
-<img src="https://profile-counter.glitch.me/Err0r-ICA/count.svg" />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErr0r-ICA&count_bg=%2300FF88&title_bg=%230D0D0D&icon=github&icon_color=%2300FF88&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -51,8 +51,8 @@ $ cat /etc/profile.d/err0r.sh
 
 <div align="center">
 
-<!-- TROPHIES — 4 righe x 4 colonne -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Err0r-ICA&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=4&column=4"/>
+<!-- TROPHIES — gitprofile.vercel.app genera trofei fittizi sempre visibili -->
+<img src="https://github-profile-trophy.vercel.app/?username=Err0r-ICA&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=6" width="100%" />
 
 <br/><br/>
 
@@ -62,7 +62,7 @@ $ cat /etc/profile.d/err0r.sh
 
 <br/>
 
-<!-- STREAK -->
+<!-- STREAK — demolab è il fork ufficiale attivo -->
 <img width="68%" src="https://streak-stats.demolab.com/?user=Err0r-ICA&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88"/>
 
 <br/>
