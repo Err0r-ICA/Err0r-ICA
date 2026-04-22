@@ -1,25 +1,32 @@
 <div align="center">
 
-<!-- BANNER ANIMATO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Err0r-ICA&fontSize=70&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20Open%20Source&descAlignY=60&descAlign=50&descColor=888888&descSize=16" />
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Err0r-ICA&fontSize=70&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20Open%20Source&descAlignY=60&descAlign=50&descColor=aaaaaa&descSize=16" />
 
-<!-- BADGES SOCIALI -->
-<p>
-  <a href="https://github.com/Err0r-ICA">
-    <img src="https://img.shields.io/badge/GitHub-Err0r--ICA-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-  </a>
-  <a href="https://instagram.com/defacer1337">
-    <img src="https://img.shields.io/badge/Instagram-defacer1337-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
-  </a>
-  <a href="https://t.me/ItalianDefacer">
-    <img src="https://img.shields.io/badge/Telegram-ItalianDefacer-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
-  </a>
-  <a href="https://www.tiktok.com/@err0r_hb">
-    <img src="https://img.shields.io/badge/TikTok-err0r__hb-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d"/>
-  </a>
-</p>
+<!-- LOGO -->
+<img src="https://i.ibb.co/Tr1BXg0/Cyb3r-Byte.png" width="120" alt="Cyb3r-Byte Logo" />
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/Err0r-ICA">
+  <img src="https://img.shields.io/badge/GitHub-Err0r--ICA-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://instagram.com/defacer1337">
+  <img src="https://img.shields.io/badge/Instagram-defacer1337-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://t.me/ItalianDefacer">
+  <img src="https://img.shields.io/badge/Telegram-ItalianDefacer-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://www.tiktok.com/@err0r_hb">
+  <img src="https://img.shields.io/badge/TikTok-err0r__hb-ffffff?style=for-the-badge&logo=tiktok&logoColor=black&labelColor=0d0d0d"/>
+</a>
+
+<br/><br/>
 
 <!-- VISITOR COUNTER -->
+📌 **VISITORS COUNT** 📌
+
 <img src="https://profile-counter.glitch.me/Err0r-ICA/count.svg" />
 
 </div>
@@ -31,32 +38,37 @@
 ```bash
 $ cat /etc/profile.d/err0r.sh
 
-  NAME     : Err0r-ICA (alias Err0r_HB)
+  NAME     : Err0r-ICA  (alias: Err0r_HB)
   ROLE     : Full-Stack Developer · Security Researcher
-  OS       : Kali Linux / Ubuntu / Parrot OS / Android (Termux)
-  FOCUS    : Web Development · Ethical Hacking · Open Source Tools
-  STATUS   : Always building something...
+  OS       : Kali Linux · Ubuntu · Parrot OS · Android (Termux)
+  FOCUS    : Web Dev · Ethical Hacking · Open Source Tools
+  STATUS   : [ ■■■■■■■■░░ ] Always building something...
 ```
 
 ---
 
-## `> ls ~/stats/`
+## `> ls ~/stats/ -la`
 
 <div align="center">
 
-<!-- GITHUB TROPHIES -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Err0r-ICA&row=1&column=7&theme=matrix&no-frame=true&no-bg=true&margin-w=4"/>
+<!-- TROPHIES — 4 righe x 4 colonne -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Err0r-ICA&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=4&column=4"/>
+
+<br/><br/>
+
+<!-- GITHUB STATS + TOP LANGS -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc&cache_seconds=3200"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Err0r-ICA&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&cache_seconds=3200"/>
 
 <br/>
 
-<!-- GITHUB STATS + TOP LANGS affiancati -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=cccccc&cache_seconds=3200"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Err0r-ICA&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc"/>
+<!-- STREAK -->
+<img width="68%" src="https://streak-stats.demolab.com/?user=Err0r-ICA&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88"/>
 
 <br/>
 
-<!-- STREAK STATS -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Err0r-ICA&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
+<!-- ACTIVITY GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Err0r-ICA&theme=react-dark&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -66,7 +78,7 @@ $ cat /etc/profile.d/err0r.sh
 
 <div align="center">
 
-### ◈ Languages & Markup
+### ◈ Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -85,19 +97,28 @@ $ cat /etc/profile.d/err0r.sh
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
 ### ◈ Tools & Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 </div>
 
@@ -108,25 +129,25 @@ $ cat /etc/profile.d/err0r.sh
 <div align="center">
 
 <a href="https://github.com/Err0r-ICA/Brutegram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=Brutegram&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=Brutegram&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/Err0r-ICA/TermuxCyberArmy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=TermuxCyberArmy&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=TermuxCyberArmy&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Err0r-ICA/WannaTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=WannaTool&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=WannaTool&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
 </a>
 <a href="https://github.com/Err0r-ICA/JAR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=JAR&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=JAR&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ERR0R-ICA/VARIOUS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=VARIOUS&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Err0r-ICA&repo=VARIOUS&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&icon_color=00ff88"/>
 </a>
 
 </div>
@@ -137,17 +158,7 @@ $ cat /etc/profile.d/err0r.sh
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38kPL6TNtdNp871jAsVW1r&cover_image=true&theme=natemoo-re&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=38kPL6TNtdNp871jAsVW1r&redirect=true)
-
-</div>
-
----
-
-## `> cat /proc/activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Err0r-ICA&theme=react-dark&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=38kPL6TNtdNp871jAsVW1r&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff88&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=38kPL6TNtdNp871jAsVW1r&redirect=true)
 
 </div>
 
@@ -155,10 +166,10 @@ $ cat /etc/profile.d/err0r.sh
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=&fontSize=0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
 
-[![License](https://img.shields.io/badge/license-MIT-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
-[![Maintainer](https://img.shields.io/badge/maintainer-HackBoyz-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
-[![Platform](https://img.shields.io/badge/tested%20on-Kali%20·%20Parrot%20·%20Ubuntu%20·%20Termux-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
+[![License MIT](https://img.shields.io/badge/license-MIT-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
+[![Maintainer HackBoyz](https://img.shields.io/badge/maintainer-HackBoyz-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
+[![Tested On](https://img.shields.io/badge/tested%20on-Kali%20·%20Parrot%20·%20Ubuntu%20·%20Termux-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Err0r-ICA)
 
 </div>
